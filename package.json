@@ -1,0 +1,19 @@
+{
+  "name": "robot-video-maker",
+  "version": "1.0.0",
+  "description": "Desenvolvido para criar videos para o youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlysTorres/robot-video-maker.git"
+  },
+  "author": "CharlysTorres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlysTorres/robot-video-maker/issues"
+  },
+  "homepage": "https://github.com/CharlysTorres/robot-video-maker#readme"
+}
